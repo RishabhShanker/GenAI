@@ -1,0 +1,23 @@
+python-dotenv==1.0.1
+pydantic>=2.6
+requests>=2.32.0
+tenacity>=8.4.2
+tqdm>=4.66.4
+
+# LangChain stack
+langchain==0.3.27
+langchain-community==0.3.29
+langchain-google-genai==2.1.10
+
+# Google GenAI SDK (the new, recommended SDK)
+google-genai>=0.3.0
+
+# Yahoo Finance news dependency
+yfinance==0.2.65
+
+# Observability
+mlflow>=2.16.0
+
+streamlit>=1.37.0
+
+

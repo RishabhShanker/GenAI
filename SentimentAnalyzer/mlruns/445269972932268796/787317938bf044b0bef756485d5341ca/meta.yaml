@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zadmin/Desktop/test/SentimentAnalyzer/mlruns/445269972932268796/787317938bf044b0bef756485d5341ca/artifacts
+end_time: 1757968755825
+entry_point_name: ''
+experiment_id: '445269972932268796'
+lifecycle_stage: active
+run_id: 787317938bf044b0bef756485d5341ca
+run_name: sentiment
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757968750511
+status: 3
+tags: []
+user_id: zadmin
