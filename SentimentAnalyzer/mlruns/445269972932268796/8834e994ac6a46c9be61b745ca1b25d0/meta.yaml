@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zadmin/Desktop/test/SentimentAnalyzer/mlruns/445269972932268796/8834e994ac6a46c9be61b745ca1b25d0/artifacts
+end_time: 1757968750510
+entry_point_name: ''
+experiment_id: '445269972932268796'
+lifecycle_stage: active
+run_id: 8834e994ac6a46c9be61b745ca1b25d0
+run_name: news
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757968738194
+status: 3
+tags: []
+user_id: zadmin

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zadmin/Desktop/test/SentimentAnalyzer/mlruns/445269972932268796/2385ea18bfb5408aa0e69eae13055fe7/artifacts
+end_time: 1757968738193
+entry_point_name: ''
+experiment_id: '445269972932268796'
+lifecycle_stage: active
+run_id: 2385ea18bfb5408aa0e69eae13055fe7
+run_name: ticker
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757968737843
+status: 3
+tags: []
+user_id: zadmin
